@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.xavier.clericslime.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "VillagerXpMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
