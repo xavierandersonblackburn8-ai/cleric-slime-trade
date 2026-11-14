@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "cleric_slime_trade:cleric/1/slime_ball_emerald",
+    "cleric_slime_trade:cleric/1/slime_block_emeralds"
+  ]
+}
