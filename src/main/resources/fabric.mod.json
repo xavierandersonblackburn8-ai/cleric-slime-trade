@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "cleric_slime_trade",
+  "version": "${version}",
+  "name": "Cleric Slime Trade",
+  "description": "Slime trades with double player XP.",
+  "authors": [
+    "xavier"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "mixins": [
+    "cleric_slime_trade.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3",
+    "java": ">=25"
+  }
+}
